@@ -130,5 +130,5 @@ Complete the product: give admins control and delight users.
 | :--- | :--- |
 | Project Management | GitHub Projects, Issues, Milestones |
 | Diagramming | Miro (BPMN) |
-| Documentation | GitHub Wiki, Swagger |
+| Documentation | GitHub Wiki, Swagger, Google Workspace (Excel) |
 | Version Control | Git, GitHub |
