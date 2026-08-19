@@ -93,6 +93,6 @@ Each theme represents a **user or business outcome**, not a checklist of tasks.
 
 - [Full Project Backlog](https://github.com/petrovskayapolina01-hash/agile-mobile-app-simulation/issues)
 - [Sprint Planning](https://github.com/users/petrovskayapolina01-hash/projects/3)
-- [BPMN Diagrams](link-to-bpmn)
+- [BPMN Diagrams](https://miro.com/app/board/uXjVHZfmDkU=/?share_link_id=872456409664)
 - [Risk Register](link-to-risk-register)
 - [Retrospectives](link-to-retrospectives)
